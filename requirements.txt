@@ -1,6 +1,6 @@
 pillow
 scipy
-torch==1.4.0
+torch
 tqdm>=4.41.0,<5
 pandas
 numpy
