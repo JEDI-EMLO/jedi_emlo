@@ -6,4 +6,5 @@
 /model.pth
 /bottleneck_features_train.npy
 /bottleneck_features_validation.npy
+/__pycache__
 
